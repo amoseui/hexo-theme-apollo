@@ -1,12 +1,12 @@
 menu:
     Blog: /
-    Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    Archive: /archives
+    Wiki: https://amoseui.github.com/wiki
+    GitHub: https://github.com/amoseui
     Rss: /atom.xml
 
-favicon: /favicon.png
-logo: /favicon.png
+# favicon: /favicon.png
+# logo: /favicon.png
 
 # Comment
 # e.g disqus: seansun
@@ -15,12 +15,12 @@ duoshuo:
 
 # Analytics
 # google-analytics:
-ga: UA-65933410-1
+# ga: UA-65933410-1
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2016
 
 # Font CDN
 #true : use google fonts api, not stable for chinese visitor sometimes, caused by force majeure factor
 #false: use useso fonts api instead of google's, great response speed for chinese visitor
-googlefonts: false
+googlefonts: true
