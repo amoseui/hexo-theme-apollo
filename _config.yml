@@ -1,7 +1,6 @@
 menu:
     Blog: /
     Archive: /archives
-    Wiki: https://amoseui.github.com/wiki
     GitHub: https://github.com/amoseui
     Rss: /atom.xml
 
@@ -11,7 +10,7 @@ menu:
 # Comment
 # e.g disqus: seansun
 disqus: blogamoseuicom
-# duoshuo: 
+# duoshuo:
 
 # Analytics
 google-analytics:
