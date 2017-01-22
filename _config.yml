@@ -13,8 +13,7 @@ disqus: blogamoseuicom
 # duoshuo:
 
 # Analytics
-google-analytics:
-    ga: UA-71786246-2
+ga: UA-71786246-2
 
 # Copyright Infomation
 startyear: 2016
